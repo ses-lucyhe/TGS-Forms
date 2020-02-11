@@ -27,7 +27,6 @@ public static void main(String[] args) throws IOException {
 	oNWBase64.NW_CheckStringForUTF_8("test");
 	//oNWBase64.NW_Encoding("test");
 	
-<<<<<<< HEAD
     File in_f = new File("C:/Temp/MainRequirements_Orig5.txt");
     PrintStream out_f = new PrintStream(new FileOutputStream("MainRequirements_Orig5_new"));
 
