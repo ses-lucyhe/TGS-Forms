@@ -27,7 +27,7 @@ public static void main(String[] args) throws IOException {
 	oNWBase64.NW_CheckStringForUTF_8("test");
 	//oNWBase64.NW_Encoding("test");
 	
-    File in_f = new File("C:/Temp/MainRequirements_Orig3.txt");
+    File in_f = new File("C:/Temp/MainRequirements_Orig4.txt");
     PrintStream out_f = new PrintStream(new FileOutputStream("MainRequirements_Orig3_new"));
     
     //File in_f = new File("C:/Temp/AAR_LongDescr.txt");
