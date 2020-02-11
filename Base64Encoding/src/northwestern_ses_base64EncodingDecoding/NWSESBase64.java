@@ -28,8 +28,8 @@ public static void main(String[] args) throws IOException {
 	//oNWBase64.NW_Encoding("test");
 	
 <<<<<<< HEAD
-    File in_f = new File("C:/Temp/MainRequirements_Orig3.txt");
-    PrintStream out_f = new PrintStream(new FileOutputStream("MainRequirements_Orig3_new"));
+    File in_f = new File("C:/Temp/MainRequirements_Orig4.txt");
+    PrintStream out_f = new PrintStream(new FileOutputStream("MainRequirements_Orig4_new"));
 
     //File in_f = new File("C:/Temp/AAR_LongDescr.txt");
     //PrintStream out_f = new PrintStream(new FileOutputStream("C:/Temp/AAR_LongDescr_new.txt"));
